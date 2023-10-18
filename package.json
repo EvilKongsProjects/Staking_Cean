@@ -1,0 +1,30 @@
+{
+  "name": "celestial-staking",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@thirdweb-dev/react": "^3.14.35",
+    "@thirdweb-dev/sdk": "^3.10.54",
+    "ethers": "^5",
+    "gh-pages": "^6.0.0",
+    "next": "^13",
+    "particles.js": "^2.0.0",
+    "react": "^18.2",
+    "react-dom": "^18.2",
+    "sharp": "^0.32.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "@types/react": "^18",
+    "eslint": "^8.29.0",
+    "eslint-config-next": "^13",
+    "typescript": "^4.9.4"
+  }
+}
